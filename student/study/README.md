@@ -1,6 +1,7 @@
-Work done while stydying the module
+Work done while studying the module
 ===================================
 
-##Contents
+## Contents
 
+[Cloud Computing Background](cloud-computing-background.md)
 [MapReduce](MR.md)
